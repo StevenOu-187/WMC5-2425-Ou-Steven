@@ -22,7 +22,7 @@ Document your progress by creating summaries and programming the examples. Push 
 
    | Task      | Duration| Progress (time or %) | Completed |
    |-----------|-----------|-----------|-----------|
-   | [Javascript Nuggets - Callback Functions](https://www.youtube.com/watch?v=GWq0XETTOTk&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=13) |    13min      | 100&      |yes       |
+   | [Javascript Nuggets - Callback Functions](https://www.youtube.com/watch?v=GWq0XETTOTk&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=13) |    13min      | 100%      |yes       |
    | [Javascript Nuggets - Callback Hell](https://www.youtube.com/watch?v=bx9xYPt2tdc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=14)|    7min      | 100%        |yes       |
    | [Javascript Nuggets - Promises](https://www.youtube.com/watch?v=IBjmTlShf6U&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=15) |    13min      | 100%       |yes       |
    | [Javascript Nuggets - Promises Example](https://www.youtube.com/watch?v=GKVA6jYrgKc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=16)|    13min      | 100%        |yes       |
@@ -32,7 +32,7 @@ Document your progress by creating summaries and programming the examples. Push 
 
    | Task      | Duration| Progress (time or %) | Completed |
    |-----------|-----------|-----------|-----------|
-   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |    8h 17min      | 0 % or "h min"       |yes/no       |
+   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |    8h 17min      |  100%       |yes     |
 
 ## Optional Additional Sources
 
